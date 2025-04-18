@@ -12,7 +12,7 @@ The crossover between design and programming has always been of interest to me, 
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)">
     <img src="https://github-profile-trophy.vercel.app/?username=VaibhavW07&column=7"/>
   </a>
 </div>
