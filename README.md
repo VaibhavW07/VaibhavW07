@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-VAIBHAV-turquoise?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vaibhav--01629954/)](https://www.linkedin.com/in/vaibhav-waghule/)
-[![Website Badge](https://img.shields.io/badge/WebSite-VAIBHAV-salmon)]("")
+[![Website Badge](https://img.shields.io/badge/WebSite-VAIBHAV-paleturquoise)]("")
 [![Website Badge](https://img.shields.io/badge/StackOverflow-VAIBHAV-indigo )]("")
 
 I'm
